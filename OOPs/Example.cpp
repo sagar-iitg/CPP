@@ -1,0 +1,12 @@
+class Hero{
+
+
+
+};
+
+
+int main()
+{
+
+
+}
